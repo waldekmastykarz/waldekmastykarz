@@ -23,7 +23,7 @@
 | [openai-compare](https://github.com/waldekmastykarz/openai-compare) | Jupyter notebook to compare LLMs using OpenAI-compatible APIs |
 | [ollama-compare](https://github.com/waldekmastykarz/ollama-compare) | Compare SLMs running on Ollama |
 | [python-tokenize](https://github.com/waldekmastykarz/python-tokenize) | Calculate token counts for text, files, and folders |
-| [json-validator](https://github.com/waldekmastykarz/json-validator) | CLI to validate JSON files against schemas |
+| [jsonck](https://github.com/waldekmastykarz/jsonck) | One command to validate any JSON file against any JSON Schema |
 | [node-ts-cjs-esm](https://github.com/waldekmastykarz/node-ts-cjs-esm) | Template for npm packages supporting both CJS and ESM |
 | [worldtime](https://github.com/waldekmastykarz/worldtime) | CLI to look up current time in any place in the world |
 | [jekyll-azure-search](https://github.com/waldekmastykarz/jekyll-azure-search) | Create and build Azure Search index for your Jekyll blog |
