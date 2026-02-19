@@ -9,22 +9,21 @@
 
 ### Projects
 
-| Project | Description |
-| --- | --- |
-| [Dev Proxy](https://github.com/dotnet/dev-proxy) | API simulator that helps you test your app beyond the happy path |
-| [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) | Cross-platform CLI to manage Microsoft 365 and SPFx projects |
-| [Accrew](https://github.com/waldekmastykarz/accrew) | One app to manage AI coding agents across all your projects |
-| [gitload](https://github.com/waldekmastykarz/gitload) | Beautiful CLI to download files, folders, or entire repos from GitHub |
-| [Tiler](https://github.com/waldekmastykarz/vscode-tiler) | Run multiple Copilot chats side by side in VS Code |
-| [seemenot](https://github.com/waldekmastykarz/seemenot) | Redact PII from images using local OCR—no cloud APIs |
-| [proxystat-win](https://github.com/waldekmastykarz/proxystat-win) | Windows system tray app showing proxy status |
-| [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) | Validate JWT tokens in Node.js with multi-tenant and role support |
-| [graph-mocks](https://github.com/waldekmastykarz/graph-mocks) | Microsoft Graph mocks for Dev Proxy |
-| [openai-compare](https://github.com/waldekmastykarz/openai-compare) | Jupyter notebook to compare LLMs using OpenAI-compatible APIs |
-| [ollama-compare](https://github.com/waldekmastykarz/ollama-compare) | Compare SLMs running on Ollama |
-| [python-tokenize](https://github.com/waldekmastykarz/python-tokenize) | Calculate token counts for text, files, and folders |
-| [jsonck](https://github.com/waldekmastykarz/jsonck) | One command to validate any JSON file against any JSON Schema |
-| [node-ts-cjs-esm](https://github.com/waldekmastykarz/node-ts-cjs-esm) | Template for npm packages supporting both CJS and ESM |
-| [worldtime](https://github.com/waldekmastykarz/worldtime) | CLI to look up current time in any place in the world |
-| [jekyll-azure-search](https://github.com/waldekmastykarz/jekyll-azure-search) | Create and build Azure Search index for your Jekyll blog |
-| [ghost-azure-search](https://github.com/waldekmastykarz/ghost-azure-search) | Create and build Azure Search index for your Ghost blog |
+- 🛡️ [Dev Proxy](https://github.com/dotnet/dev-proxy) — API simulator that helps you test your app beyond the happy path
+- 🔑 [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) — Validate JWT tokens in Node.js with multi-tenant and role support
+- ✅ [jsonck](https://github.com/waldekmastykarz/jsonck) — One command to validate any JSON file against any JSON Schema
+- 🤖 [Accrew](https://github.com/waldekmastykarz/accrew) — One app to manage AI coding agents across all your projects
+- ⚙️ [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) — Cross-platform CLI to manage Microsoft 365 and SPFx projects
+- 🏃 [rungrep](https://github.com/waldekmastykarz/rungrep) — `grep` for GitHub Actions runs. Find workflow runs by partial name from your terminal
+- 📦 [gitload](https://github.com/waldekmastykarz/gitload) — Beautiful CLI to download files, folders, or entire repos from GitHub
+- 🪟 [Tiler](https://github.com/waldekmastykarz/vscode-tiler) — Run multiple Copilot chats side by side in VS Code
+- 🙈 [seemenot](https://github.com/waldekmastykarz/seemenot) — Redact PII from images using local OCR—no cloud APIs
+- 📡 [proxystat-win](https://github.com/waldekmastykarz/proxystat-win) — Windows system tray app showing proxy status
+- ⚖️ [openai-compare](https://github.com/waldekmastykarz/openai-compare) — Jupyter notebook to compare LLMs using OpenAI-compatible APIs
+- 📐 [node-ts-cjs-esm](https://github.com/waldekmastykarz/node-ts-cjs-esm) — Template for npm packages supporting both CJS and ESM
+- 🧪 [graph-mocks](https://github.com/waldekmastykarz/graph-mocks) — Microsoft Graph mocks for Dev Proxy
+- 🦙 [ollama-compare](https://github.com/waldekmastykarz/ollama-compare) — Compare SLMs running on Ollama
+- 🔢 [python-tokenize](https://github.com/waldekmastykarz/python-tokenize) — Calculate token counts for text, files, and folders
+- 🔍 [jekyll-azure-search](https://github.com/waldekmastykarz/jekyll-azure-search) — Create and build Azure Search index for your Jekyll blog
+- 🌍 [worldtime](https://github.com/waldekmastykarz/worldtime) — CLI to look up current time in any place in the world
+- 👻 [ghost-azure-search](https://github.com/waldekmastykarz/ghost-azure-search) — Create and build Azure Search index for your Ghost blog
