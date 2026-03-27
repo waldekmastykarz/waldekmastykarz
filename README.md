@@ -9,15 +9,16 @@
 
 ### Projects
 
-- 🧵 [mdstr](https://github.com/waldekmastykarz/mdstr) — Convert markdown to a JSON-safe string, one command, zero config
-- 🤖 [Accrew](https://github.com/waldekmastykarz/accrew) — One app to manage AI coding agents across all your projects
-- 🔄 [jyml](https://github.com/waldekmastykarz/jyml) — Zero-config YAML ↔ JSON converter
+- 📋 [atifact](https://github.com/waldekmastykarz/atifact) — Turn HAR files and Claude Code logs into standardized ATIF trajectory JSON
+- 🔑 [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) — Validate JWT tokens in Node.js
 - 🏃 [rungrep](https://github.com/waldekmastykarz/rungrep) — `grep` for GitHub Actions runs. Find workflow runs by partial name from your terminal
 - ⚙️ [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) — Cross-platform CLI to manage Microsoft 365 and SPFx projects
 - 🛡️ [Dev Proxy](https://github.com/dotnet/dev-proxy) — API simulator that helps you test your app beyond the happy path
-- 📦 [gitload](https://github.com/waldekmastykarz/gitload) — Beautiful CLI to download files, folders, or entire repos from GitHub
-- 🔑 [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) — Validate JWT tokens in Node.js
 - ✅ [jsonck](https://github.com/waldekmastykarz/jsonck) — One command to validate any JSON file against any JSON Schema
+- 🤖 [Accrew](https://github.com/waldekmastykarz/accrew) — One app to manage AI coding agents across all your projects
+- 📦 [gitload](https://github.com/waldekmastykarz/gitload) — Beautiful CLI to download files, folders, or entire repos from GitHub
+- 🧵 [mdstr](https://github.com/waldekmastykarz/mdstr) — Convert markdown to a JSON-safe string, one command, zero config
+- 🔄 [jyml](https://github.com/waldekmastykarz/jyml) — Zero-config YAML ↔ JSON converter
 - 🪟 [Tiler](https://github.com/waldekmastykarz/vscode-tiler) — Run multiple Copilot chats side by side in VS Code
 - 🙈 [seemenot](https://github.com/waldekmastykarz/seemenot) — Redact PII from images using local OCR—no cloud APIs
 - 📡 [proxystat-win](https://github.com/waldekmastykarz/proxystat-win) — Windows system tray app showing proxy status
