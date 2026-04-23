@@ -8,14 +8,13 @@
 - 📫 You can reach me on [X](https://x.com/waldekm) or [LinkedIn](https://www.linkedin.com/in/waldekmastykarz/)
 
 ### Projects
-
-- 📋 [atifact](https://github.com/waldekmastykarz/atifact) — Turn HAR files and Claude Code logs into standardized ATIF trajectory JSON
-- 🔑 [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) — Validate JWT tokens in Node.js
+- 🔬 [ATIF Viz](https://github.com/waldekmastykarz/vsc-atifviz) — Visualize ATIF trajectories in VS Code- �️ [Dev Proxy](https://github.com/dotnet/dev-proxy) — API simulator that helps you test your app beyond the happy path
+- 📋 [atifact](https://github.com/waldekmastykarz/atifact) — Turn HAR files, Claude Code logs, and Copilot CLI logs into standardized ATIF trajectory JSON
 - 🏃 [rungrep](https://github.com/waldekmastykarz/rungrep) — `grep` for GitHub Actions runs. Find workflow runs by partial name from your terminal
-- ⚙️ [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) — Cross-platform CLI to manage Microsoft 365 and SPFx projects
-- 🛡️ [Dev Proxy](https://github.com/dotnet/dev-proxy) — API simulator that helps you test your app beyond the happy path
+- 🔑 [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) — Validate JWT tokens in Node.js
 - ✅ [jsonck](https://github.com/waldekmastykarz/jsonck) — One command to validate any JSON file against any JSON Schema
 - 🤖 [Accrew](https://github.com/waldekmastykarz/accrew) — One app to manage AI coding agents across all your projects
+- ⚙️ [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) — Cross-platform CLI to manage Microsoft 365 and SPFx projects
 - 📦 [gitload](https://github.com/waldekmastykarz/gitload) — Beautiful CLI to download files, folders, or entire repos from GitHub
 - 🧵 [mdstr](https://github.com/waldekmastykarz/mdstr) — Convert markdown to a JSON-safe string, one command, zero config
 - 🔄 [jyml](https://github.com/waldekmastykarz/jyml) — Zero-config YAML ↔ JSON converter
