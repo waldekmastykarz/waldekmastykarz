@@ -8,7 +8,8 @@
 - 📫 You can reach me on [X](https://x.com/waldekm) or [LinkedIn](https://www.linkedin.com/in/waldekmastykarz/)
 
 ### Projects
-- 🔬 [ATIF Viz](https://github.com/waldekmastykarz/vsc-atifviz) — Visualize ATIF trajectories in VS Code- �️ [Dev Proxy](https://github.com/dotnet/dev-proxy) — API simulator that helps you test your app beyond the happy path
+- 🔬 [ATIF Viz](https://github.com/waldekmastykarz/vsc-atifviz) — Visualize ATIF trajectories in VS Code
+- 🛡️ [Dev Proxy](https://github.com/dotnet/dev-proxy) — API simulator that helps you test your app beyond the happy path
 - 📋 [atifact](https://github.com/waldekmastykarz/atifact) — Turn HAR files, Claude Code logs, and Copilot CLI logs into standardized ATIF trajectory JSON
 - 🏃 [rungrep](https://github.com/waldekmastykarz/rungrep) — `grep` for GitHub Actions runs. Find workflow runs by partial name from your terminal
 - 🔑 [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) — Validate JWT tokens in Node.js
