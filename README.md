@@ -8,18 +8,20 @@
 - 📫 You can reach me on [X](https://x.com/waldekm) or [LinkedIn](https://www.linkedin.com/in/waldekmastykarz/)
 
 ### Projects
+- 📊 [tokviz](https://github.com/waldekmastykarz/tokviz) — Real-time web dashboard for LLM token usage and costs from OpenTelemetry data
+- 🔭 [Scope Viz](https://github.com/waldekmastykarz/vsc-scopeviz) — Visualize Scope readout JSON files to understand VS Code extension impact
+- ⚙️ [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) — Cross-platform CLI to manage Microsoft 365 and SPFx projects
 - 🔬 [ATIF Viz](https://github.com/waldekmastykarz/vsc-atifviz) — Visualize ATIF trajectories in VS Code
 - 🛡️ [Dev Proxy](https://github.com/dotnet/dev-proxy) — API simulator that helps you test your app beyond the happy path
+- 🤖 [Accrew](https://github.com/waldekmastykarz/accrew) — One app to manage AI coding agents across all your projects
+- ✅ [jsonck](https://github.com/waldekmastykarz/jsonck) — One command to validate any JSON file against any JSON Schema
+- 📦 [gitload](https://github.com/waldekmastykarz/gitload) — Beautiful CLI to download files, folders, or entire repos from GitHub
+- 🪟 [Tiler](https://github.com/waldekmastykarz/vscode-tiler) — Run multiple Copilot chats side by side in VS Code
 - 📋 [atifact](https://github.com/waldekmastykarz/atifact) — Turn HAR files, Claude Code logs, and Copilot CLI logs into standardized ATIF trajectory JSON
 - 🏃 [rungrep](https://github.com/waldekmastykarz/rungrep) — `grep` for GitHub Actions runs. Find workflow runs by partial name from your terminal
 - 🔑 [node-jwt-validate](https://github.com/waldekmastykarz/node-jwt-validate) — Validate JWT tokens in Node.js
-- ✅ [jsonck](https://github.com/waldekmastykarz/jsonck) — One command to validate any JSON file against any JSON Schema
-- 🤖 [Accrew](https://github.com/waldekmastykarz/accrew) — One app to manage AI coding agents across all your projects
-- ⚙️ [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365) — Cross-platform CLI to manage Microsoft 365 and SPFx projects
-- 📦 [gitload](https://github.com/waldekmastykarz/gitload) — Beautiful CLI to download files, folders, or entire repos from GitHub
 - 🧵 [mdstr](https://github.com/waldekmastykarz/mdstr) — Convert markdown to a JSON-safe string, one command, zero config
 - 🔄 [jyml](https://github.com/waldekmastykarz/jyml) — Zero-config YAML ↔ JSON converter
-- 🪟 [Tiler](https://github.com/waldekmastykarz/vscode-tiler) — Run multiple Copilot chats side by side in VS Code
 - 🙈 [seemenot](https://github.com/waldekmastykarz/seemenot) — Redact PII from images using local OCR—no cloud APIs
 - 📡 [proxystat-win](https://github.com/waldekmastykarz/proxystat-win) — Windows system tray app showing proxy status
 - ⚖️ [openai-compare](https://github.com/waldekmastykarz/openai-compare) — Jupyter notebook to compare LLMs using OpenAI-compatible APIs
@@ -27,6 +29,6 @@
 - 🧪 [graph-mocks](https://github.com/waldekmastykarz/graph-mocks) — Microsoft Graph mocks for Dev Proxy
 - 🦙 [ollama-compare](https://github.com/waldekmastykarz/ollama-compare) — Compare SLMs running on Ollama
 - 🔢 [python-tokenize](https://github.com/waldekmastykarz/python-tokenize) — Calculate token counts for text, files, and folders
-- 🔍 [jekyll-azure-search](https://github.com/waldekmastykarz/jekyll-azure-search) — Create and build Azure Search index for your Jekyll blog
 - 🌍 [worldtime](https://github.com/waldekmastykarz/worldtime) — CLI to look up current time in any place in the world
+- 🔍 [jekyll-azure-search](https://github.com/waldekmastykarz/jekyll-azure-search) — Create and build Azure Search index for your Jekyll blog
 - 👻 [ghost-azure-search](https://github.com/waldekmastykarz/ghost-azure-search) — Create and build Azure Search index for your Ghost blog
